@@ -1,0 +1,12 @@
+# ignore all files in the directory
+
+.idea/
+.vs/
+*.vsconfig
+*.sln
+*.DotSettings.user
+
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
